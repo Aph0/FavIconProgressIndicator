@@ -1,0 +1,1 @@
+$wnd.org_vaadin_johan_doubleprogressindicator_DoubleprogressindicatorWidgetset.runAsyncCallback1('$sb(2439,1,ZPe);_.cc=function Ayd(){hZb((!cZb&&(cZb=new jZb),cZb),this.b.e)};KQe(qh)(1);\n//@ sourceURL=1.js\n')
